@@ -8,4 +8,7 @@ FeatureExtraction.py: Python module needed to be imported
 AccuracyTestFile.ipynb: Code for cleaning data, and test classifiers
 
 Data:
-
+Male Data:
+https://gist.github.com/mbejda/7f86ca901fe41bc14a63
+Female Data:
+https://gist.github.com/mbejda/9b93c7545c9dd93060bd
