@@ -1,5 +1,5 @@
 # Gender-Classification
-Machine Learning project to classify gender on the basis of first name
+Machine Learning project to classify gender on the basis of first names (only Indian)
 Accuracy: approx 0.92 on testing dataset(cross validation set not used),
 Classifier: SVM using NLTK wrapper for sklearn library
 
